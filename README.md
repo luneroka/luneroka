@@ -70,7 +70,7 @@ Interactive dashboards for business and sales analytics.
 
 # Web Development Projects
 
-### 📚 [StaffPicks Public](https://github.com/luneroka/staffpicks-public)
+### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
 Web platform for sharing curated staff recommendations and selections.
 
 **Tech:** React · Node.js · Express · PostgreSQL
