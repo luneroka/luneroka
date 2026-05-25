@@ -29,6 +29,7 @@ Création d’outils concrets combinant data, automatisation et technologies web
 
 <p align="center">
   Analyse de données & reporting • Développement web full-stack
+  <br>
   Automatisation & outils métier • Dashboards & systèmes d’aide à la décision
 </p>
 
