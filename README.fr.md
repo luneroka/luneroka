@@ -131,7 +131,7 @@ Plateforme de budgétisation et de suivi des dépenses pour projets de construct
 
 ### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
 
-Plateforme web permettant de partager des recommandations et sélections personnalisées.
+Application permettant aux clients de librairie d’accéder aux recommandations de livres des vendeurs via QR code.
 
 <br>
 
