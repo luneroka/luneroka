@@ -21,18 +21,14 @@ Building practical tools combining data, automation, and modern web technologies
 
 # About Me
 
-I build applications focused on:
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_&_Analytics-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-6DB33F?style=for-the-badge" />
+</p>
 
-- Data analysis & reporting
-- Full-stack web development
-- Automation & business tooling
-- Dashboarding & decision support systems
-
-Currently developing projects around:
-- Construction budgeting & reporting
-- Data warehousing
-- Analytics dashboards
-- Modern full-stack applications
+<p align="center">
+  Data analysis & reporting • Full-stack web development • Automation & business tooling • Dashboarding & decision support systems
+</p>
 
 ---
 
@@ -40,68 +36,132 @@ Currently developing projects around:
 
 ## Data & Analytics
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
+
 Construction budgeting and expense tracking platform inspired by real [Excel workflows](https://github.com/luneroka/budget_construction_excel).
 
-**Tech:** Python · FastAPI · PostgreSQL · Docker · React
+<br>
 
----
+**Tech:**  
+Python · FastAPI · PostgreSQL · Docker · React
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📈 [SQL eCommerce Data Analysis](https://github.com/luneroka/sql_dap_ecommerce)
+
 End-to-end SQL analysis project exploring:
 - Sales performance
 - Revenue trends
 - Fulfillment efficiency
 - Customer metrics
 
-**Tech:** SQL · PostgreSQL · Excel · Tableau
+<br>
 
----
+**Tech:**  
+SQL · PostgreSQL · Excel · Tableau
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 [SQL Data Warehouse Project](https://github.com/luneroka/sql_datawarehouse_project)
+
 Modern data warehouse implementation with ETL pipelines and analytics-ready schemas.
 
-**Tech:** PostgreSQL · SQL · ETL · Data Modeling
+<br>
 
----
+**Tech:**  
+PostgreSQL · SQL · ETL · Data Modeling
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 [Tableau Sales Dashboard](https://github.com/luneroka/tableau_sales_dashboard)
+
 Interactive dashboards for business and sales analytics.
 
-**Tech:** Tableau · Excel · SQL
+<br>
+
+**Tech:**  
+Tableau · Excel · SQL
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Web Development Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
+
 Web platform for sharing curated staff recommendations and selections.
 
-**Tech:** React · Node.js · Express · PostgreSQL
+<br>
 
----
+**Tech:**  
+React · Node.js · Express · PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📖 [Ma Bibli](https://github.com/luneroka/ma-bibli)
+
 Personal library management application built with the MERN stack.
 
-**Tech:** MongoDB · Express · React · Node.js
+<br>
 
----
+**Tech:**  
+MongoDB · Express · React · Node.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 [Help Invest](https://github.com/luneroka/help-invest)
+
 Investment portfolio management tool for tracking allocations and performance.
 
-**Tech:** Flask · Python · Bootstrap
+<br>
 
----
+**Tech:**  
+Flask · Python · Bootstrap
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔔 [Bell Ringer](https://github.com/luneroka/bell-ringer)
+
 Quiz application built with Java & Spring Boot featuring:
 - Topic selection
 - Shuffle mode
 - Learning-focused gameplay
 
-**Tech:** Java · Spring Boot
+<br>
+
+**Tech:**  
+Java · Spring Boot
+
+</td>
+</tr>
+</table>
 
 ---
 
