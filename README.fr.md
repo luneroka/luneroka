@@ -40,14 +40,14 @@ Création d’outils concrets combinant data, automatisation et technologies web
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
+### 🏗️ [Budget Construction (Excel)](https://github.com/luneroka/budget_construction_excel)
 
-Plateforme de budgétisation et de suivi des dépenses pour projets de construction, inspirée de workflows [Excel réels](https://github.com/luneroka/budget_construction_excel).
+Système de suivi budgétaire de construction développé sous Excel, utilisé comme prototype fonctionnel d’une application web full-stack.
 
 <br>
 
 **Tech :**  
-Python · FastAPI · PostgreSQL · Docker · React
+Excel · VBA · Power Query · Google Apps Script
 
 </td>
 
@@ -55,11 +55,7 @@ Python · FastAPI · PostgreSQL · Docker · React
 
 ### 📈 [SQL eCommerce Data Analysis](https://github.com/luneroka/sql_dap_ecommerce)
 
-Projet d’analyse SQL de bout en bout explorant :
-- Les performances commerciales
-- Les tendances de revenus
-- L’efficacité logistique
-- Les indicateurs clients
+Projet d’analyse SQL de bout en bout explorant les performances commerciales, les tendances de revenus, l’efficacité logistique et les indicateurs clients.
 
 <br>
 
@@ -87,7 +83,7 @@ PostgreSQL · SQL · ETL · Modélisation de données
 
 ### 📊 [Tableau Sales Dashboard](https://github.com/luneroka/tableau_sales_dashboard)
 
-Dashboards interactifs dédiés à l’analyse commerciale et au pilotage de performance.
+Dashboards interactifs dédiés à l’analyse commerciale et au pilotage de performance, réalisés avec Tableau Public.
 
 <br>
 
@@ -104,6 +100,22 @@ Tableau · Excel · SQL
 
 <table>
 <tr>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
+
+Plateforme de budgétisation et de suivi des dépenses pour projets de construction, inspirée de workflows [Excel réels](https://github.com/luneroka/budget_construction_excel).
+
+<br>
+
+**Tech :**  
+Python · FastAPI · PostgreSQL · Docker · React
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
@@ -117,6 +129,8 @@ React · Node.js · Express · PostgreSQL
 
 </td>
 
+<tr>
+
 <td width="50%" valign="top">
 
 ### 📖 [Ma Bibli](https://github.com/luneroka/ma-bibli)
@@ -128,10 +142,6 @@ Application de gestion de bibliothèque personnelle développée avec la stack M
 **Tech :**  
 MongoDB · Express · React · Node.js
 
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 [Help Invest](https://github.com/luneroka/help-invest)
@@ -143,23 +153,6 @@ Outil de gestion de portefeuille d’investissement pour le suivi des allocation
 **Tech :**  
 Flask · Python · Bootstrap
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🔔 [Bell Ringer](https://github.com/luneroka/bell-ringer)
-
-Application de quiz développée avec Java & Spring Boot incluant :
-- Sélection de thèmes
-- Mode aléatoire
-- Expérience orientée apprentissage
-
-<br>
-
-**Tech :**  
-Java · Spring Boot
-
-</td>
 </tr>
 </table>
 
