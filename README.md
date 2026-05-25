@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Full-Stack Developer & Data Analytics Enthusiast
+### Full-Stack Developer & Data Analytist
 
 Building practical tools combining data, automation, and modern web technologies.
 
