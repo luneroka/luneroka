@@ -1,42 +1,152 @@
-# Hi there! 👋
+# Yoann Robert
 
-I'm a passionate developer with expertise in **Data Analytics** and **Web Development**. Welcome to my portfolio!
+<div align="center">
 
----
+### Full-Stack Developer & Data Analytics Enthusiast
 
-## 🎯 Core Skills
+Building practical tools combining data, automation, and modern web technologies.
 
-### 📊 Data & Analytics
-Building data-driven solutions using SQL, Python, and analytics tools to extract meaningful insights from complex datasets.
+<br>
 
-**Featured Projects:**
-- **[Budget Construction](https://github.com/luneroka/budget_construction)** - Python-based budget tracking and project management tool for construction projects
-- **[SQL eCommerce Data Analysis](https://github.com/luneroka/sql_dap_ecommerce)** - End-to-end analysis exploring sales performance, revenue insights, and fulfillment metrics
-- **[SQL Data Warehouse Project](https://github.com/luneroka/sql_datawarehouse_project)** - Modern data warehouse with PostgreSQL, ETL processes, and advanced analytics
-- **[Tableau Sales Dashboard](https://github.com/luneroka/tableau_sales_dashboard)** - Interactive dashboards for sales performance and customer analytics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/robertyoann/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luneroka)
+
+</div>
 
 ---
 
-### 💻 Web Development
-Creating responsive, user-friendly applications with modern frameworks and full-stack solutions.
+# About Me
 
-**Featured Projects:**
-- **[StaffPicks Public](https://github.com/luneroka/staffpicks-public)** - Dynamic web application for curating and sharing staff recommendations
-- **[Ma Bibli](https://github.com/luneroka/ma-bibli)** - MERN stack application for personal book collection management
-- **[Help Invest](https://github.com/luneroka/help-invest)** - Flask-based portfolio management tool for tracking investments and optimizing allocations
-- **[Bell Ringer](https://github.com/luneroka/bell-ringer)** - Web dev quiz app built with Java & Spring Boot, featuring topic selection and shuffle mode
+I build applications focused on:
 
----
+- Data analysis & reporting
+- Full-stack web development
+- Automation & business tooling
+- Dashboarding & decision support systems
 
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, SQL, CSS, VBA  
-**Frontend:** React, Vanilla JS  
-**Backend:** Node.js/Express, Python Flask, Java Spring Boot  
-**Databases:** PostgreSQL, MongoDB  
-**Tools:** Tableau, Excel, Git
+Currently developing projects around:
+- Construction budgeting & reporting
+- Data warehousing
+- Analytics dashboards
+- Modern full-stack applications
 
 ---
 
-## 📫 Let's Connect!
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+# Featured Projects
+
+## Data & Analytics
+
+### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
+Construction budgeting and expense tracking platform inspired by real Excel workflows.
+
+**Tech:** Python · FastAPI · PostgreSQL · Docker · React
+
+---
+
+### 📈 [SQL eCommerce Data Analysis](https://github.com/luneroka/sql_dap_ecommerce)
+End-to-end SQL analysis project exploring:
+- Sales performance
+- Revenue trends
+- Fulfillment efficiency
+- Customer metrics
+
+**Tech:** SQL · PostgreSQL · Excel · Tableau
+
+---
+
+### 🏢 [SQL Data Warehouse Project](https://github.com/luneroka/sql_datawarehouse_project)
+Modern data warehouse implementation with ETL pipelines and analytics-ready schemas.
+
+**Tech:** PostgreSQL · SQL · ETL · Data Modeling
+
+---
+
+### 📊 [Tableau Sales Dashboard](https://github.com/luneroka/tableau_sales_dashboard)
+Interactive dashboards for business and sales analytics.
+
+**Tech:** Tableau · Excel · SQL
+
+---
+
+# Web Development Projects
+
+### 📚 [StaffPicks Public](https://github.com/luneroka/staffpicks-public)
+Web platform for sharing curated staff recommendations and selections.
+
+**Tech:** React · Node.js · Express · PostgreSQL
+
+---
+
+### 📖 [Ma Bibli](https://github.com/luneroka/ma-bibli)
+Personal library management application built with the MERN stack.
+
+**Tech:** MongoDB · Express · React · Node.js
+
+---
+
+### 💰 [Help Invest](https://github.com/luneroka/help-invest)
+Investment portfolio management tool for tracking allocations and performance.
+
+**Tech:** Flask · Python · Bootstrap
+
+---
+
+### 🔔 [Bell Ringer](https://github.com/luneroka/bell-ringer)
+Quiz application built with Java & Spring Boot featuring:
+- Topic selection
+- Shuffle mode
+- Learning-focused gameplay
+
+**Tech:** Java · Spring Boot
+
+---
+
+# Tech Stack
+
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+---
+
+## Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luneroka&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luneroka&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+# Contact
+
+Feel free to explore my repositories or connect for collaboration opportunities.
