@@ -8,7 +8,7 @@ Building practical tools combining data, automation, and modern web technologies
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/robertyoann/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertyoann/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luneroka)
 
 </div>
@@ -114,6 +114,9 @@ Quiz application built with Java & Spring Boot featuring:
 
 ## Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -139,9 +142,9 @@ Quiz application built with Java & Spring Boot featuring:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luneroka&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luneroka&show_icons=true&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luneroka&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luneroka&layout=compact&hide_border=true&theme=default)
 
 </div>
 
