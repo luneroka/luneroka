@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Développeur Full-Stack & Passionné de Data Analytics
+### Développeur Full-Stack & Data Analytist
 
 Création d’outils concrets combinant data, automatisation et technologies web modernes.
 
@@ -28,7 +28,8 @@ Création d’outils concrets combinant data, automatisation et technologies web
 </p>
 
 <p align="center">
-  Analyse de données & reporting • Développement web full-stack • Automatisation & outils métier • Dashboards & systèmes d’aide à la décision
+  Analyse de données & reporting • Développement web full-stack
+  Automatisation & outils métier • Dashboards & systèmes d’aide à la décision
 </p>
 
 ---
