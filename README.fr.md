@@ -21,18 +21,14 @@ Création d’outils concrets combinant data, automatisation et technologies web
 
 # À propos
 
-Je développe des applications orientées :
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_&_Analytics-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-6DB33F?style=for-the-badge" />
+</p>
 
-- Analyse de données & reporting
-- Développement web full-stack
-- Automatisation & outils métier
-- Dashboards & systèmes d’aide à la décision
-
-Je travaille actuellement sur des projets autour de :
-- Budgétisation & suivi de construction
-- Data warehousing
-- Dashboards analytiques
-- Applications full-stack modernes
+<p align="center">
+  Analyse de données & reporting • Développement web full-stack • Automatisation & outils métier • Dashboards & systèmes d’aide à la décision
+</p>
 
 ---
 
@@ -40,68 +36,132 @@ Je travaille actuellement sur des projets autour de :
 
 ## Data & Analytics
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
+
 Plateforme de budgétisation et de suivi des dépenses pour projets de construction, inspirée de workflows [Excel réels](https://github.com/luneroka/budget_construction_excel).
 
-**Tech :** Python · FastAPI · PostgreSQL · Docker · React
+<br>
 
----
+**Tech :**  
+Python · FastAPI · PostgreSQL · Docker · React
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📈 [SQL eCommerce Data Analysis](https://github.com/luneroka/sql_dap_ecommerce)
+
 Projet d’analyse SQL de bout en bout explorant :
 - Les performances commerciales
 - Les tendances de revenus
 - L’efficacité logistique
 - Les indicateurs clients
 
-**Tech :** SQL · PostgreSQL · Excel · Tableau
+<br>
 
----
+**Tech :**  
+SQL · PostgreSQL · Excel · Tableau
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 [SQL Data Warehouse Project](https://github.com/luneroka/sql_datawarehouse_project)
+
 Implémentation moderne d’un data warehouse avec pipelines ETL et modèles analytiques.
 
-**Tech :** PostgreSQL · SQL · ETL · Modélisation de données
+<br>
 
----
+**Tech :**  
+PostgreSQL · SQL · ETL · Modélisation de données
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 [Tableau Sales Dashboard](https://github.com/luneroka/tableau_sales_dashboard)
+
 Dashboards interactifs dédiés à l’analyse commerciale et au pilotage de performance.
 
-**Tech :** Tableau · Excel · SQL
+<br>
+
+**Tech :**  
+Tableau · Excel · SQL
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Projets Web Development
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
+
 Plateforme web permettant de partager des recommandations et sélections personnalisées.
 
-**Tech :** React · Node.js · Express · PostgreSQL
+<br>
 
----
+**Tech :**  
+React · Node.js · Express · PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📖 [Ma Bibli](https://github.com/luneroka/ma-bibli)
+
 Application de gestion de bibliothèque personnelle développée avec la stack MERN.
 
-**Tech :** MongoDB · Express · React · Node.js
+<br>
 
----
+**Tech :**  
+MongoDB · Express · React · Node.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 [Help Invest](https://github.com/luneroka/help-invest)
+
 Outil de gestion de portefeuille d’investissement pour le suivi des allocations et performances.
 
-**Tech :** Flask · Python · Bootstrap
+<br>
 
----
+**Tech :**  
+Flask · Python · Bootstrap
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🔔 [Bell Ringer](https://github.com/luneroka/bell-ringer)
+
 Application de quiz développée avec Java & Spring Boot incluant :
 - Sélection de thèmes
 - Mode aléatoire
 - Expérience orientée apprentissage
 
-**Tech :** Java · Spring Boot
+<br>
+
+**Tech :**  
+Java · Spring Boot
+
+</td>
+</tr>
+</table>
 
 ---
 
