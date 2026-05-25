@@ -37,7 +37,7 @@ Currently developing projects around:
 ## Data & Analytics
 
 ### 🏗️ [Budget Construction](https://github.com/luneroka/budget_construction)
-Construction budgeting and expense tracking platform inspired by real Excel workflows.
+Construction budgeting and expense tracking platform inspired by real [Excel workflows](https://github.com/luneroka/budget-construction-excel).
 
 **Tech:** Python · FastAPI · PostgreSQL · Docker · React
 
