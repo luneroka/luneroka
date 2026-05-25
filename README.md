@@ -28,7 +28,9 @@ Building practical tools combining data, automation, and modern web technologies
 </p>
 
 <p align="center">
-  Data analysis & reporting • Full-stack web development • Automation & business tooling • Dashboarding & decision support systems
+  Data analysis & reporting • Full-stack web development
+  <br>
+  Automation & business tooling • Dashboarding & decision support systems
 </p>
 
 ---
