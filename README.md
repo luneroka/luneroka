@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.md">🇬🇧 English</a>
+  <a href="./README.EN.md">🇬🇧 English</a>
 </p>
 
 # Yoann Robert
