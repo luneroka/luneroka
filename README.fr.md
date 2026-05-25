@@ -14,6 +14,7 @@ Création d’outils concrets combinant data, automatisation et technologies web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertyoann/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luneroka)
+[![Website](https://img.shields.io/badge/Website-0586c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yoannrobert.com)
 
 </div>
 
