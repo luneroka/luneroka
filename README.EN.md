@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.fr.md">🇫🇷 Français</a>
+  <a href="./README.md">🇫🇷 Français</a>
 </p>
 
 # Yoann Robert
