@@ -131,7 +131,7 @@ Construction budgeting and expense tracking platform inspired by real [Excel wor
 
 ### 📚 [StaffPicks](https://github.com/luneroka/staffpicks-public)
 
-Web platform for sharing curated staff recommendations and selections.
+Web platform for sharing bookshop curated staff recommendations and selections.
 
 <br>
 
