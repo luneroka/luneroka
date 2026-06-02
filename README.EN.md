@@ -2,7 +2,7 @@
   <a href="./README.md">🇫🇷 Français</a>
 </p>
 
-# Yoann Robert
+# Yoann R.
 
 <div align="center">
 
