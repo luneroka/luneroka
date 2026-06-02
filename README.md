@@ -2,7 +2,7 @@
   <a href="./README.EN.md">🇬🇧 English</a>
 </p>
 
-# Yoann Robert
+# Yoann R.
 
 <div align="center">
 
